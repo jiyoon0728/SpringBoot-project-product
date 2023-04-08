@@ -1,4 +1,4 @@
-package shop.mtcoding.product.model;
+package shop.mtcoding.product.model.product;
 
 import java.sql.Timestamp;
 
